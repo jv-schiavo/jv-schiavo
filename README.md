@@ -1,13 +1,12 @@
 # João Victor · Data Engineer
 
 **Computer Science student in the UK** — building practical data systems while working full-time in construction.  
-Not a bootcamp grad. Not a career-switcher with a certificate. Someone who builds things and figures it out.
 
 ---
 
 ## What I Actually Do
 
-I design and build data systems end-to-end — from raw ingestion to something an analyst can actually use.
+I design and build data systems end-to-end, from raw ingestion through to analytics ready outputs.
 
 ```
 Raw Data  →  Ingestion  →  Transformation  →  Modelling  →  Output
