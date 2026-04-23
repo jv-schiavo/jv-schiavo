@@ -42,7 +42,7 @@ End-to-end data engineering project using real job listing data from the Adzuna 
 - Modelled with **dbt**, orchestrated with **Airflow**
 - Visualised in **Power BI**
 
-> Built to demonstrate a production-style pipeline on real data — not a toy dataset.
+> Built to demonstrate a production-style pipeline on real data.
 
 ---
 
