@@ -52,7 +52,7 @@ Relational database system built from scratch in SQLite.
 - Triggers and views for automation and reporting
 - Tkinter-based UI for data entry and queries
 
-> Focus: proving I can design a schema that reflects real business logic, not just pass a tutorial.
+> Focus: proving I can design a schema that reflects real business logic.
 
 ---
 
@@ -63,7 +63,7 @@ Text classification tool powered by a Large Language Model.
 - Designed for real use cases: tagging, triage, data enrichment
 - Bridges AI output with downstream analytics workflows
 
-> Focus: making unstructured data usable — a core problem in real data work.
+> Focus: making unstructured data usable, a core problem in real data work.
 
 
 
